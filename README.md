@@ -28,3 +28,4 @@ We use 3D Attention U-Net as our backbone to synthetis CBF maps. With the help o
 - [SC-GAN](https://github.com/haoyulance/sc-gan): 3D self-attention conditional GAN with spectral normalization for multi-modal neuroimaging synthesis.
 - [MRI2PET](https://www.sciencedirect.com/science/article/abs/pii/S1361841523003328): Hussein, Ramy et al. “Turning brain MRI into diagnostic PET: 15O-water PET CBF synthesis from multi-contrast MRI via attention-based encoder-decoder networks.” Medical image analysis vol. 93 (2024): 103072. doi:10.1016/j.media.2023.103072.
 - [Multi-task U-Net](https://github.com/hz-zhu/MT-UNet):Multi-task UNet: Jointly Boosting Saliency Prediction and Disease Classification on Chest X-ray Images", Hongzhi Zhu et al., submitted to Medical Imaging with Deep learning (MIDL) 2022.
+- [Multimodal Feature Fusion](https://arxiv.org/pdf/2107.00135): Attention Bottlenecks for Multimodal Fusion.
